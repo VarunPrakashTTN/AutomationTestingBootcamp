@@ -17,10 +17,10 @@ Scenario finalized for Automation:
       
 #### 3) Negative Test Case: Booking Flight with same departure and arrival city
       Negative Testing was done. The search button was an input and not a button,
-      also while entering the city names in departure and arrival is took the input of same city name in both the fields which it should not.
+      also while entering the city names in departure and arrival it took the input of same the city name in both the fields which it should not.
       Hence, website not suitable for negative testing
 
-#### 4) book a order than contact the customet care for that order
+#### 4) book a order than contact the customer care for that order
       Working Perfectly Fine, combined with Que 2.
       
 #### 5) Negative Testing: Try to place a order without signing in
